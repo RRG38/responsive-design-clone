@@ -1,13 +1,21 @@
 
 
 header.masthead {
-    width: 100vh;
-    height:15vh;
-    text-align: center;
-    color: #fff;
-    background-image: url(/src/components/header-photo.jpg);
-    background-size: cover
+  /* display: flex; */
+  width: 100vh;
+  height:15vh;
+  text-align: center;
+  color: #fff;
+  background-image: url(/src/components/header-photo.jpg);
+  background-size: cover
 }
+
+/*
+nav {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+*/
 
 
 @media (min-width: 481px) {
