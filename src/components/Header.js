@@ -1,7 +1,9 @@
 function Header(){
   return (
-      <header>
-        <img src="https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg" alt=""/>
+      <header class="masthead">
+        <div>Welcome To Our Studio!</div>
+        <div>It's Nice To Meet You</div>
+        
       </header>
   )
 }
