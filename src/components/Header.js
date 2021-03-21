@@ -9,3 +9,5 @@ function Header(){
 }
 
 export default Header;
+
+//try using background-image css properties, background-size, background-position, background-repeat
